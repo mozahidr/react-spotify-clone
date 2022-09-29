@@ -1,5 +1,8 @@
 # Project Spotify clone
 
+#Live Demo link
+https://spotify-clone-rana.netlify.app/
+
 Develop an elegant React.js Music Application. 
 
 ## System Requirements
